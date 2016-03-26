@@ -1,3 +1,4 @@
+# Instructions
 For this section's assessment, you will fill out the functions defined in
 `interface.js`. These functions will query a collection of movies - the
 data in the movies collection will look like what you see in the `movies.json`
